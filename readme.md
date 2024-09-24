@@ -26,3 +26,5 @@ By utilizing blockchain technology, the application guarantees a secure and tran
 - **Frontend**: [React App](https://github.com/facebook/create-react-app)
 - **Wallet Integration**: [React Provider](https://aptos.dev/en/build/sdks/wallet-adapter/dapp)
 - **Wallet**: [Petra](https://petra.app/)
+
+this project from courses at [metaschool](https://metaschool.so/)
