@@ -6,7 +6,7 @@ The Rock Paper Scissors decentralized application (DApp) is an innovative projec
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [ITechnologies](#technologies)
+- [Technologies](#technologies)
 
 ### Introduction
 
